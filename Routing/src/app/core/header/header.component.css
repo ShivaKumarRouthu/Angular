@@ -1,0 +1,52 @@
+.bannerContainer {
+    background: #563d7c;
+}
+
+.bannerContainer {
+    color: #fff;
+}
+
+.pull-right {
+    text-align: right;
+}
+
+.logo{
+    padding-top: 0.4rem;
+    font-size: 20px;
+}
+
+.logo a {
+    color: inherit;
+    text-decoration: none
+}
+
+.logo a :hover {
+    text-decoration: none;
+}
+
+.logo-part-2 { 
+    padding-left: 2px;
+    font: 12px;
+}
+
+.logo-part-1 {
+    padding-right: 2px;
+    border-right: 1px solid wheat;
+}
+
+ul.nav {
+    border: none;
+}
+
+.nav-link {
+    border: none;
+    color: rgb(219, 200, 200);
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+.active-link {
+    color: #fff;
+}
